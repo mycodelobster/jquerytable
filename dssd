@@ -1,0 +1,4 @@
+	// var ID = $(this).data('id');
+		// var url = '/easyui/ui/get/'+ID;
+		// var parentRow = $(this).parent().parent();
+		// var fullname = $('td.fullname', parentRow).text();
